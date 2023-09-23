@@ -8,6 +8,9 @@ mindmap
       Gerar Backtest
       Configurar parâmetros
     Carteira
+      Buscar cotações
+      Buscar dados fundamentalistas
+      Criar filtros
       Configurar critérios
       Gerar carteira
     Relatório
