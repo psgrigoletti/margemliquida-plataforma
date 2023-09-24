@@ -1,0 +1,16 @@
+# mkdocs.yml
+site_name: MargemLíquida Plataforma
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings:
+      default_handler: python
+      handlers:
+        python:
+          paths: [src]
+
+nav:
+  - Principal: index.md
+  - Documentação API: reference.md

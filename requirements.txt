@@ -1,0 +1,11 @@
+yfinance
+selenium==4.10.0
+streamlit
+fundamentus
+bs4
+tabulate
+
+mkdocs
+mkdocs-material
+mkdocstrings-python
+pdoc3
