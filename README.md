@@ -16,3 +16,8 @@ mindmap
     Relatório
       Gerar
 ```
+
+# Ferramentas
+- https://console.cron-job.org/
+- https://psgrigoletti.pythonanywhere.com/
+- 
